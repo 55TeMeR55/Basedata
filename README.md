@@ -1,4 +1,8 @@
 # Basedata
+Использовались при разработке:
+->Visual Studio 2019
+->SQL in Visual Studio 2019
+
 Главная форма
 
 ![image](https://user-images.githubusercontent.com/48158561/120137512-4e050700-c1f6-11eb-9029-608c5e0b9a4b.png)
