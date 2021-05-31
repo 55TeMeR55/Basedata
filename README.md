@@ -1,7 +1,7 @@
 # Basedata
 Главная форма
 
-![image](https://user-images.githubusercontent.com/48158561/120137290-c4edd000-c1f5-11eb-94cf-f57aa37d67de.png)
+![image](https://user-images.githubusercontent.com/48158561/120137512-4e050700-c1f6-11eb-9029-608c5e0b9a4b.png)
 
 Форма "Добавить запись"
 
@@ -9,4 +9,5 @@
 
 Форма "Редактировать"
 
-![image](https://user-images.githubusercontent.com/48158561/120137355-ef3f8d80-c1f5-11eb-888e-32ca92131763.png)
+![image](https://user-images.githubusercontent.com/48158561/120137501-480f2600-c1f6-11eb-81a0-48c89f7dfda4.png)
+
