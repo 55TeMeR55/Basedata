@@ -1,0 +1,78 @@
+C:\Users\TeMeR\source\repos\Datafirm\bin\Debug\Database1.mdf
+C:\Users\TeMeR\source\repos\Datafirm\bin\Debug\Database1_log.ldf
+C:\Users\TeMeR\source\repos\Datafirm\bin\Debug\Datafirm.exe.config
+C:\Users\TeMeR\source\repos\Datafirm\bin\Debug\Datafirm.exe
+C:\Users\TeMeR\source\repos\Datafirm\bin\Debug\Datafirm.pdb
+C:\Users\TeMeR\source\repos\Datafirm\obj\Debug\Datafirm.Form1.resources
+C:\Users\TeMeR\source\repos\Datafirm\obj\Debug\Datafirm.Properties.Resources.resources
+C:\Users\TeMeR\source\repos\Datafirm\obj\Debug\Datafirm.csproj.GenerateResource.cache
+C:\Users\TeMeR\source\repos\Datafirm\obj\Debug\Datafirm.exe
+C:\Users\TeMeR\source\repos\Datafirm\obj\Debug\Datafirm.pdb
+C:\Users\TeMeR\source\repos\Datafirm\obj\Debug\Datafirm.csprojAssemblyReference.cache
+C:\Users\TeMeR\source\repos\Datafirm\obj\Debug\Datafirm.Form2.resources
+C:\Users\TeMeR\source\repos\Datafirm\obj\Debug\Datafirm.Form3.resources
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\bin\Debug\Database1.mdf
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\bin\Debug\Database1_log.ldf
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\bin\Debug\Datafirm.exe.config
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\bin\Debug\Datafirm.exe
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\bin\Debug\Datafirm.pdb
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\obj\Debug\Datafirm.csprojAssemblyReference.cache
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\obj\Debug\Datafirm.Form1.resources
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\obj\Debug\Datafirm.Form2.resources
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\obj\Debug\Datafirm.Form3.resources
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\obj\Debug\Datafirm.Properties.Resources.resources
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\obj\Debug\Datafirm.csproj.GenerateResource.cache
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\obj\Debug\Datafirm.exe
+C:\Users\TeMeR\source\repos\Datafirm — копия (2)\obj\Debug\Datafirm.pdb
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\bin\Debug\Database1.mdf
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\bin\Debug\Database1_log.ldf
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\bin\Debug\Datafirm.exe.config
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\bin\Debug\Datafirm.exe
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\bin\Debug\Datafirm.pdb
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\obj\Debug\Datafirm.csprojAssemblyReference.cache
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\obj\Debug\Datafirm.Form1.resources
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\obj\Debug\Datafirm.Form2.resources
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\obj\Debug\Datafirm.Form3.resources
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\obj\Debug\Datafirm.Properties.Resources.resources
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\obj\Debug\Datafirm.csproj.GenerateResource.cache
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\obj\Debug\Datafirm.exe
+C:\Users\TeMeR\Desktop\Datafirm —норм версия без излишеств\obj\Debug\Datafirm.pdb
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\bin\Debug\Database1.mdf
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\bin\Debug\Database1_log.ldf
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\bin\Debug\Datafirm.exe.config
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\bin\Debug\Datafirm.exe
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\bin\Debug\Datafirm.pdb
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\obj\Debug\Datafirm.csprojAssemblyReference.cache
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\obj\Debug\Datafirm.Form1.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\obj\Debug\Datafirm.Form2.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\obj\Debug\Datafirm.Form3.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\obj\Debug\Datafirm.Properties.Resources.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\obj\Debug\Datafirm.csproj.GenerateResource.cache
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\obj\Debug\Datafirm.exe
+C:\Users\TeMeR\Desktop\Datafirm —Стаб версия copy\obj\Debug\Datafirm.pdb
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\bin\Debug\Database1.mdf
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\bin\Debug\Database1_log.ldf
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\bin\Debug\Datafirm.exe.config
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\bin\Debug\Datafirm.exe
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\bin\Debug\Datafirm.pdb
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\obj\Debug\Datafirm.csprojAssemblyReference.cache
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\obj\Debug\Datafirm.Form1.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\obj\Debug\Datafirm.Form2.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\obj\Debug\Datafirm.Form3.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\obj\Debug\Datafirm.Properties.Resources.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\obj\Debug\Datafirm.csproj.GenerateResource.cache
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\obj\Debug\Datafirm.exe
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия до чистки базы\obj\Debug\Datafirm.pdb
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\bin\Debug\Database1.mdf
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\bin\Debug\Database1_log.ldf
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\bin\Debug\Datafirm.exe.config
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\bin\Debug\Datafirm.exe
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\bin\Debug\Datafirm.pdb
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Debug\Datafirm.csprojAssemblyReference.cache
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Debug\Datafirm.Form1.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Debug\Datafirm.Form2.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Debug\Datafirm.Form3.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Debug\Datafirm.Properties.Resources.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Debug\Datafirm.csproj.GenerateResource.cache
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Debug\Datafirm.exe
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Debug\Datafirm.pdb

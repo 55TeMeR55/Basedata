@@ -1,0 +1,13 @@
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\bin\Release\Database1.mdf
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\bin\Release\Database1_log.ldf
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\bin\Release\Datafirm.exe.config
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\bin\Release\Datafirm.exe
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\bin\Release\Datafirm.pdb
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Release\Datafirm.csprojAssemblyReference.cache
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Release\Datafirm.Form1.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Release\Datafirm.Form2.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Release\Datafirm.Form3.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Release\Datafirm.Properties.Resources.resources
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Release\Datafirm.csproj.GenerateResource.cache
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Release\Datafirm.exe
+C:\Users\TeMeR\Desktop\Datafirm —Стаб ласт версия после чистки базы\obj\Release\Datafirm.pdb
